@@ -1,0 +1,3 @@
+/Users/yanlang/Desktop/TFile/build/CMakeFiles/rebuild_cache.dir
+/Users/yanlang/Desktop/TFile/build/CMakeFiles/edit_cache.dir
+/Users/yanlang/Desktop/TFile/build/CMakeFiles/practice.dir
